@@ -8,5 +8,16 @@ public:
 
         int n = nums.size();
         return n*(n+1)/2 - sum;
+
+        //XOR solution 
+        //  int n = nums.size();
+        // int ans =0;
+        // for(int i =1;i<=n;i++){
+        //     ans = ans ^ i;
+        // }
+        // for(int i =0;i<nums.size();i++){
+        //     ans= ans^nums[i];
+        // }
+        // return ans;
     }
 };
