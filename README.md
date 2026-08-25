@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/me-coder7/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/me-coder7/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/me-coder7/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3701-compute-alternating-sum](https://github.com/me-coder7/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3895-count-digit-appearances](https://github.com/me-coder7/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/me-coder7/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/me-coder7/Leetcode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
